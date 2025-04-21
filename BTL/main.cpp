@@ -51,8 +51,7 @@ void init() {
     renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
     birdTexture = loadTexture("bird.png");
     pipeTexture = loadTexture("pipe.png");
-    bird.rect = {100, 250, 70, 60}; // Chim lớn hơn
-    bird.velocity = 0;
+    bird.rect = {100, 250, 110, 100};
     bird.angle = 0;
     srand(time(0));
 }
