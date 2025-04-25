@@ -32,6 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Bird.cpp" />
+		<Unit filename="Bird.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameOver.cpp" />
+		<Unit filename="GameOver.h" />
+		<Unit filename="Pipe.cpp" />
+		<Unit filename="Pipe.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
