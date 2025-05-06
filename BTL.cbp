@@ -34,6 +34,8 @@
 		</Compiler>
 		<Unit filename="Bird.cpp" />
 		<Unit filename="Bird.h" />
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.h" />
 		<Unit filename="Game.cpp" />
 		<Unit filename="Game.h" />
 		<Unit filename="GameOver.cpp" />

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1745837923 source:d:\baitap\btl\main.cpp
+1746413119 source:d:\baitap\btl\main.cpp
 	"Game.h"
 
 1745599396 source:d:\baitap\btl\bird.cpp
@@ -9,23 +9,34 @@
 1745599396 d:\baitap\btl\bird.h
 	<SDL.h>
 
-1745599396 source:d:\baitap\btl\game.cpp
+1746549645 source:d:\baitap\btl\game.cpp
 	"Game.h"
+	"Button.h"
 	<cstdlib>
 	<ctime>
 
-1745599396 d:\baitap\btl\game.h
+1746548593 d:\baitap\btl\game.h
 	<SDL.h>
 	<SDL_image.h>
 	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<fstream>
 	<vector>
 	<string>
 	"Bird.h"
 	"Pipe.h"
+	"Button.h"
+	<iostream>
 
 1745599396 d:\baitap\btl\pipe.h
 	<SDL.h>
 
 1745599396 source:d:\baitap\btl\pipe.cpp
 	"Pipe.h"
+
+1746544143 d:\baitap\btl\button.h
+	<SDL.h>
+
+1746544204 source:d:\baitap\btl\button.cpp
+	"Button.h"
 
